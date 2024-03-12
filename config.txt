@@ -1,11 +1,11 @@
 {
- "wifiSsid": "Your SSID",
- "wifiPassword": "Your password",
-"host": "51.68.135.155",
-"path": "/stream",
+ "wifiSsid": "Your wifi ssid",
+ "wifiPassword": "Your wifi password",
+"host": "stream13.radioagora.pl",
+"path": "/tuba38-1.mp3",
 "port": 80,
-"format": ".mp4",
+"format": ".mp3",
 "startHour": 12,
-"startMinute": 13,
-"recordLength": 20
+"startMinute": 0,
+"recordLength": 10
 }
