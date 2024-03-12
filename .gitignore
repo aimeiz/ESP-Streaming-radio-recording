@@ -1,0 +1,8 @@
+*/
+*
+!*.ino
+!*.h
+!*.cpp
+!.gitignore
+!README*
+!config.txt

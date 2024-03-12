@@ -1,0 +1,11 @@
+{
+ "wifiSsid": "Your SSID",
+ "wifiPassword": "Your password",
+"host": "51.68.135.155",
+"path": "/stream",
+"port": 80,
+"format": ".mp4",
+"startHour": 12,
+"startMinute": 13,
+"recordLength": 20
+}
